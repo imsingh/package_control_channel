@@ -421,6 +421,7 @@
 		{
 			"name": "Ionic Framework Snippets",
 			"details": "https://github.com/imsingh/ionic-sublime-plugin",
+			"labels": ["ionic" "snippets", "markup"],
 			"releases": [
 				{
 					"sublime_text": "*",
